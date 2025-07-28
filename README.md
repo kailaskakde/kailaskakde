@@ -83,7 +83,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>  
   <a href="kakdekailas0@gmail.com">
-    📧 Email Me
+    📧 Email Me-kakdekailas0@gmail.com
   </a>
 </p>
 
