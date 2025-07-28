@@ -1,3 +1,4 @@
+![logo](https://github.com/kailaskakde/kailaskakde/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Kailas Kakde</h1>
 <h3 align="center">🔍 Passionate about Data Analytics & Business Intelligence</h3>
 
