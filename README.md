@@ -1,24 +1,93 @@
-![logo](https://github.com/kailaskakde/kailaskakde/blob/main/github%20banner.png)
-<h1 align="center">Hi 👋, I'm Kailas Kakde</h1>
-<h3 align="center">🔍 Passionate about Data Analytics & Business Intelligence</h3>
+<!-- GitHub Profile README -->
 
-<img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h1 align="center" style="color:#6C63FF; font-family:Segoe UI;">Hi 👋, I'm <span style="color:#FF4C60;">Kailas Kakde</span></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kailaskakde&label=Profile%20views&color=0e75b6&style=flat" alt="kailaskakde" /> </p>
-
-- 📫 How to reach me **kakdekailas0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kailas-kakde-b62ab2289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kailas-kakde-b62ab2289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;Power+BI%2C+Python%2C+SQL+Lover;Solving+Business+Problems+with+Data&center=true&width=500&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<hr style="border-top: 2px dashed #6C63FF; width:80%;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kailaskakde&show_icons=true&locale=en&layout=compact" alt="kailaskakde" /></p>
+<h2>🔍 About Me</h2>
+<ul>
+  <li>🎯 Passionate about transforming data into actionable insights</li>
+  <li>📊 Skilled in <b>Python</b>, <b>SQL</b>, <b>Excel</b>, <b>Power BI</b></li>
+  <li>🧠 Learning <b>Machine Learning</b> & <b>Python Automation</b></li>
+  <li>🚀 Open to <b>Data Analyst roles</b> & <b>Real-world projects</b></li>
+  <li>📫 Reach me at: <b>your.email@example.com</b></li>
+</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kailaskakde&show_icons=true&locale=en" alt="kailaskakde" /></p>
+<hr style="border-top: 2px dashed #6C63FF; width:80%;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kailaskakde&" alt="kailaskakde" /></p>
+<h2>🎓 Education</h2>
+
+<ul>
+  <li><b>Bachelor of Computer Science & Information Technology (BCS.IT)</b></li>
+  <li><b>College:</b> Dr. G.Y. Pathrikar College of IT & Computer Science</li>
+  <li><b>University:</b> MGM University, Chhatrapati Sambhajinagar</li>
+  <li><b>Year:</b> 2022 – 2025</li>
+  <li><b>CGPA:</b> 8.2 / 10</li>
+</ul>
+
+<hr style="border-top: 2px dashed #6C63FF; width:80%;">
+
+<h2>💼 Tools & Technologies</h2>
+
+<table>
+  <tr>
+    <th align="left">Language/Tool</th>
+    <th align="left">Proficiency</th>
+  </tr>
+  <tr>
+    <td>🐍 Python (Pandas, NumPy, Seaborn)</td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>🧮 SQL (MySQL)</td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>📊 Power BI</td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>📈 Excel (Pivot Tables, Power Query)</td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>📚 Statistics</td>
+    <td>⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>🔍 DAX & Data Modelling</td>
+    <td>⭐⭐⭐</td>
+  </tr>
+</table>
+
+
+<hr style="border-top: 2px dashed #6C63FF; width:80%;">
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="350" />
+</p>
+
+<hr style="border-top: 2px dashed #6C63FF; width:80%;">
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/kailas-kakde-b62ab2289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>  
+  <a href="kakdekailas0@gmail.com">
+    📧 Email Me
+  </a>
+</p>
+
+
+
+
 
