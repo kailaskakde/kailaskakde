@@ -14,7 +14,7 @@
   <li>📊 Skilled in <b>Python</b>, <b>SQL</b>, <b>Excel</b>, <b>Power BI</b></li>
   <li>🧠 Learning <b>Machine Learning</b> & <b>Python Automation</b></li>
   <li>🚀 Open to <b>Data Analyst roles</b> & <b>Real-world projects</b></li>
-  <li>📫 Reach me at: <b>your.email@example.com</b></li>
+  <li>📫 Reach me at: <b>kakdekailas0@gmail.com</b></li>
 </ul>
 
 <hr style="border-top: 2px dashed #6C63FF; width:80%;">
