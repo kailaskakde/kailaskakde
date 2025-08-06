@@ -64,12 +64,6 @@
   </tr>
 </table>
 
-
-<hr style="border-top: 2px dashed #6C63FF; width:80%;">
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-
 <hr style="border-top: 2px dashed #6C63FF; width:80%;">
 
 <h2>📫 Connect With Me</h2>
