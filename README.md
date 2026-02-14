@@ -1,84 +1,88 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center" style="color:#6C63FF; font-family:Segoe UI;">Hi 👋, I'm <span style="color:#FF4C60;">Kailas Kakde</span></h1>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#2563EB;">Kailas Kakde</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;Power+BI%2C+Python%2C+SQL+Lover;Solving+Business+Problems+with+Data&center=true&width=500&height=45">
+  <b>Junior Data Analyst | Power BI • Python • SQL</b>
 </p>
 
-<hr style="border-top: 2px dashed #6C63FF; width:80%;">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data-Driven+Problem+Solver;Power+BI+%7C+Python+%7C+SQL;Business+Insights+with+Data&center=true&width=500&height=40">
+</p>
 
-<h2>🔍 About Me</h2>
+<hr>
+
+<h2>👨‍💻 Professional Summary</h2>
+<p>
+Results-driven <b>Junior Data Analyst</b> with <b>1.4+ years</b> of experience in data cleaning, analysis, and dashboard development.
+Strong in translating business requirements into actionable insights using <b>Python, SQL, Excel, and Power BI</b>.
+</p>
+
+<hr>
+
+<h2>💼 Experience</h2>
+
+<b>Junior Data Analyst</b><br>
+UAS IT Consultant Services <br>
+<i>Nov 2024 – Feb 2026</i>
+
 <ul>
-  <li>🎯 Passionate about transforming data into actionable insights</li>
-  <li>📊 Skilled in <b>Python</b>, <b>SQL</b>, <b>Excel</b>, <b>Power BI</b></li>
-  <li>🧠 Learning <b>Machine Learning</b> & <b>Python Automation</b></li>
-  <li>🚀 Open to <b>Data Analyst roles</b> & <b>Real-world projects</b></li>
-  <li>📫 Reach me at: <b>kakdekailas0@gmail.com</b></li>
+  <li>Developed interactive <b>Power BI dashboards</b> for sales & performance analysis</li>
+  <li>Cleaned and transformed large datasets using <b>Python (Pandas, NumPy)</b></li>
+  <li>Wrote optimized <b>SQL queries</b> for reporting and ad-hoc analysis</li>
+  <li>Automated Excel reports using <b>Power Query</b></li>
+  <li>Presented insights to non-technical stakeholders</li>
 </ul>
 
-<hr style="border-top: 2px dashed #6C63FF; width:80%;">
+<p>
+🔗 
+<a href="https://www.linkedin.com/company/uas-it-consultant-services/" target="_blank">Company LinkedIn</a> |
+<a href="https://uasitconsultantservices.com/" target="_blank">Company Website</a>
+</p>
+
+<hr>
+
+<h2>🛠 Skills</h2>
+
+<ul>
+  <li><b>Data Analysis:</b> Python, Pandas, NumPy, Statistics</li>
+  <li><b>Databases:</b> MySQL, SQL Server</li>
+  <li><b>Visualization:</b> Power BI (DAX, Data Modeling)</li>
+  <li><b>Spreadsheets:</b> Excel, Pivot Tables, Power Query</li>
+</ul>
+
+<hr>
 
 <h2>🎓 Education</h2>
 
-<ul>
-  <li><b>Bachelor of Computer Science & Information Technology (BCS.IT)</b></li>
-  <li><b>College:</b> Dr. G.Y. Pathrikar College of IT & Computer Science</li>
-  <li><b>University:</b> MGM University, Chhatrapati Sambhajinagar</li>
-  <li><b>Year:</b> 2022 – 2025</li>
-  <li><b>CGPA:</b> 8.2 / 10</li>
-</ul>
+<b>Bachelor of Computer Science & IT (BCS.IT)</b><br>
+Dr. G.Y. Pathrikar College of IT & Computer Science<br>
+MGM University, Chhatrapati Sambhajinagar<br>
+<i>2022 – 2025 | CGPA: 8.2</i>
 
-<hr style="border-top: 2px dashed #6C63FF; width:80%;">
+<hr>
 
-<h2>💼 Tools & Technologies</h2>
-
-<table>
-  <tr>
-    <th align="left">Language/Tool</th>
-    <th align="left">Proficiency</th>
-  </tr>
-  <tr>
-    <td>🐍 Python (Pandas, NumPy, Seaborn)</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td>🧮 SQL (MySQL)</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td>📊 Power BI</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td>📈 Excel (Pivot Tables, Power Query)</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td>📚 Statistics</td>
-    <td>⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td>🔍 DAX & Data Modelling</td>
-    <td>⭐⭐⭐</td>
-  </tr>
-</table>
-
-<hr style="border-top: 2px dashed #6C63FF; width:80%;">
-
-<h2>📫 Connect With Me</h2>
+<h2>📫 Contact</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/kailas-kakde-b62ab2289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>  
-  <a href="kakdekailas0@gmail.com">
-    📧 Email Me-kakdekailas0@gmail.com
-  </a>
+<a href="https://www.linkedin.com/in/kailas-kakde-b62ab2289" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:kakdekailas0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white">
+</a>
 </p>
 
+<hr>
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) 
+<h2>💻 Tech Stack</h2>
 
-
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
