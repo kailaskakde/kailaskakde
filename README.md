@@ -20,7 +20,7 @@
 - 📈 Skilled in Power BI, SQL, Python, and Advanced Excel
 - ⚙️ Experience in ETL Processes, Data Cleaning, Data Transformation, and KPI Reporting
 - 📍 Pune, India
-- 📧 Email: **kakdekakde0@gmail.com**
+- 📧 Email: **kakdekailas0@gmail.com**
 
 ---
 
