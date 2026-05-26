@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 📊 Data Analyst with 2 years of experience in Data Analysis, SQL Reporting, and Dashboard Development
+- 📊 Data Analyst with of experience in Data Analysis, SQL Reporting, and Dashboard Development
 - 📈 Skilled in Power BI, SQL, Python, and Advanced Excel
 - ⚙️ Experience in ETL Processes, Data Cleaning, Data Transformation, and KPI Reporting
 - 📍 Pune, India
@@ -72,7 +72,7 @@
 
 ## Data Analyst  
 ### UAS IT Consultancy Services Pvt. Ltd. | Pune  
-📅 Jun 2023 – Present
+📅  – Present
 
 - Worked on SQL queries, joins, subqueries, CTEs, and aggregations for reporting and data analysis.
 - Developed Power BI dashboards with DAX measures, KPI tracking, slicers, charts, and interactive reports.
